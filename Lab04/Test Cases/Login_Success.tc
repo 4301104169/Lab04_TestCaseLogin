@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng nhập thành công</description>
+   <name>Login_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e67814c7-5353-4d17-b544-0bdf447f41f3</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>3093ef49-6bca-4b09-b1b5-1d73a7adff8e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>f2a4953d-9e60-4511-9707-469ae914dbc1</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng nhập không thành công</description>
+   <name>Login_Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81db1924-8f7b-4182-8f61-fa61804e384e</testCaseGuid>
+   <variable>
+      <defaultValue>'johndoe'</defaultValue>
+      <description></description>
+      <id>a2a3d2a9-ad75-4ecb-b575-019f8dde298c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'thisisnotapassword'</defaultValue>
+      <description></description>
+      <id>afefd110-5f30-4e03-927d-949adf855247</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
